@@ -22,4 +22,4 @@ This project provisions a scalable, multi-tenant SaaS laravel platform where eac
 
 ## Architecture 
 
-<img src="multi-tenant-saas-platform-architecture.png" alt="ELK Stack Architecture">
+<img src="multi-tenant-saas-platform.png" alt="Multi SaaS Plateform Architecture">
